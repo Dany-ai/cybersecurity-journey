@@ -16,6 +16,15 @@ Currently exploring cybersecurity through hands-on labs, virtual internships, an
 
 ---
 
+## 🌐 Connect With Me
+
+💼 [LinkedIn](https://linkedin.com/in/yourusername)  
+📂 [TryHackMe Profile](https://tryhackme.com/p/yourusername)  
+🐙 [GitHub](https://github.com/yourusername)  
+📧 your.email@example.com  
+
+---
+
 ## 🧭 Learning Roadmap
 
 | Status | Course / Program | Platform |
@@ -128,12 +137,3 @@ cybersecurity-journey/
 - 🔲 Finish TryHackMe Beginner Path  
 - 🔲 Complete 2 Virtual Internships  
 - 🔲 Build and share my first SOC lab project  
-
----
-
-## 🌐 Connect With Me
-
-💼 [LinkedIn](https://linkedin.com/in/yourusername)  
-📂 [TryHackMe Profile](https://tryhackme.com/p/yourusername)  
-🐙 [GitHub](https://github.com/yourusername)  
-📧 your.email@example.com  
