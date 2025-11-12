@@ -1,15 +1,9 @@
 # 🧑‍💻 My Cybersecurity Journey
 
-Welcome to my cybersecurity learning journey!  
-I'm documenting everything I learn — from foundational IT and networking to ethical hacking, SOC analysis, and professional certifications.  
-This repo serves as my **portfolio**, **progress tracker**, and **knowledge base**.  
-
----
-
-## 🚀 About Me
-
 Hi! I'm Danyal, an aspiring **Cybersecurity Analyst** passionate about ethical hacking, blue teaming, and network defense.  
 Currently exploring cybersecurity through hands-on labs, virtual internships, and industry certifications.
+
+Welcome to my cybersecurity learning journey! I'm documenting everything I learn — from foundational IT and networking to ethical hacking, SOC analysis, and professional certifications. This repo serves as my **portfolio**, **progress tracker**, and **knowledge base**.  
 
 🎯 **Goal:** Become a skilled SOC Analyst and later specialize in threat detection and vulnerability management.  
 📍 **Current Focus:** Networking, Security Fundamentals, and Hands-on Labs  
