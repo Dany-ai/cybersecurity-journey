@@ -101,21 +101,21 @@ Currently exploring cybersecurity through hands-on labs, virtual internships, an
 cybersecurity-journey/
 │
 ├── notes/
-│ ├── networking.md
-│ ├── cybersecurity-basics.md
-│ ├── tryhackme.md
-│ ├── certifications.md
-│ └── internships.md
+│   ├── networking.md
+│   ├── cybersecurity-basics.md
+│   ├── tryhackme.md
+│   ├── certifications.md
+│   └── internships.md
 │
 ├── projects/
-│ ├── tryhackme-labs/
-│ ├── scripts/
-│ └── reports/
+│   ├── tryhackme-labs/
+│   ├── scripts/
+│   └── reports/
 │
 ├── certifications/
-│ ├── cisco-it-support.pdf
-│ ├── google-cybersecurity.pdf
-│ └── isc2-training.pdf
+│   ├── cisco-it-support.pdf
+│   ├── google-cybersecurity.pdf
+│   └── isc2-training.pdf
 │
 └── README.md
 
