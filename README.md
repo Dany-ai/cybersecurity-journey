@@ -28,21 +28,12 @@ Welcome to my cybersecurity learning journey! I'm documenting everything I learn
 | 🔜 | Network Technician Career Path | Cisco |
 | 🔜 | Junior Cybersecurity Analyst Career Path | Cisco |
 | 🔜 | Ethical Hacker | Cisco |
-| 🔜 | TryHackMe – The Ultimate Guide for Beginners | TryHackMe |
+| 🔜 | The Missing Semester of Your CS Education | MIT |
+| 🔜 | 90DaysOfCyberSecurity Challenge | GitHub |
+| 🔜 | TryHackMe Guide for Beginners | TryHackMe |
 | 🔜 | ISC2 Cybersecurity Training | ISC2 |
 | 🔜 | Qualys Certification and Training Center | Qualys |
-| 🔜 | 90DaysOfCyberSecurity Challenge | Community |
-| 🔜 | Mastercard Virtual Internship | Forage |
-| 🔜 | Commonwealth Bank Virtual Internship | Forage |
-| 🔜 | AIG Virtual Internship | Forage |
-| 🔜 | Telstra AU Virtual Internship | Forage |
-| 🔜 | Datacom Virtual Internship | Forage |
-| 🔜 | Deloitte Virtual Internship | Forage |
-| 🔜 | Tata Virtual Internship | Forage |
-| 🔜 | Clifford Chance Virtual Internship | Forage |
-| 🔜 | Google IT Support Professional Certificate | Google |
-| 🔜 | Google Cybersecurity Professional Certificate | Google |
-| 🔜 | Forage Referencing Policy V4 | Forage |
+
 
 ---
 
