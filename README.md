@@ -12,10 +12,10 @@ Welcome to my cybersecurity learning journey! I'm documenting everything I learn
 
 ## 🌐 Connect With Me
 
-💼 [LinkedIn](https://linkedin.com/in/yourusername)  
-📂 [TryHackMe Profile](https://tryhackme.com/p/yourusername)  
-🐙 [GitHub](https://github.com/yourusername)  
-📧 your.email@example.com  
+💼 [LinkedIn](https://www.linkedin.com/in/danyal-gulzar/)  
+📂 [TryHackMe Profile](https://tryhackme.com/p/danyalgulzar03)  
+🐙 [GitHub](https://github.com/Dany-ai)  
+📧 danyalgulzar03@gmail.com
 
 ---
 
@@ -24,8 +24,8 @@ Welcome to my cybersecurity learning journey! I'm documenting everything I learn
 | Status | Course / Program | Platform |
 |:------:|------------------|-----------|
 | ✅ | Cisco Packet Tracer | Cisco |
-| ✅ | Cisco IT Support Specialist Career Path | Cisco |
-| 🔄 | Network Technician Career Path | Cisco |
+| 🔄 | Cisco IT Support Specialist Career Path | Cisco |
+| 🔜 | Network Technician Career Path | Cisco |
 | 🔜 | Junior Cybersecurity Analyst Career Path | Cisco |
 | 🔜 | Ethical Hacker | Cisco |
 | 🔜 | TryHackMe – The Ultimate Guide for Beginners | TryHackMe |
@@ -50,8 +50,8 @@ Welcome to my cybersecurity learning journey! I'm documenting everything I learn
 
 | Certification | Issuer | Status |
 |----------------|---------|--------|
-| Cisco IT Support Specialist | Cisco | ✅ Completed |
 | Cisco Packet Tracer | Cisco | ✅ Completed |
+| Cisco IT Support Specialist | Cisco | 🔜 In Progress |
 | Google IT Support Professional Certificate | Google | 🔜 In Progress |
 | Google Cybersecurity Professional Certificate | Google | 🔜 In Progress |
 | ISC2 Cybersecurity Training | ISC2 | 🔜 In Progress |
@@ -59,14 +59,6 @@ Welcome to my cybersecurity learning journey! I'm documenting everything I learn
 | Ethical Hacker | Cisco | 🔜 Upcoming |
 
 ---
-
-## 🧩 Hands-on Labs & Projects
-
-### 🔐 TryHackMe Labs
-- [Intro to Cybersecurity](link)
-- [Network Fundamentals](link)
-- [Phishing Analysis](link)
-- [Blue Team Path Progress](link)
 
 ### ⚙️ Tools & Skills Practiced
 - **Network Tools:** Wireshark, Nmap, Packet Tracer  
@@ -76,53 +68,6 @@ Welcome to my cybersecurity learning journey! I'm documenting everything I learn
 
 ---
 
-## 🧰 Knowledge Notes
-
-📘 *Key notes and summaries from my studies*  
-
-- [Networking Fundamentals](notes/networking.md)
-- [Cybersecurity Concepts](notes/cybersecurity-basics.md)
-- [TryHackMe Progress Logs](notes/tryhackme.md)
-- [Virtual Internship Reflections](notes/internships.md)
-- [Certification Study Notes](notes/certifications.md)
-
----
-
-## 📅 90 Days of Cybersecurity
-
-| Day | Topic | Tool / Platform | Reflection |
-|-----|--------|------------------|-------------|
-| 1 | Linux Basics | TryHackMe | Learned basic commands and navigation |
-| 2 | Nmap Scanning | TryHackMe | Practiced host discovery and service enumeration |
-| 3 | Vulnerability Management | Qualys | Understood patch management cycle |
-| ... | ... | ... | ... |
-
----
-
-## 📂 Repository Structure
-
-cybersecurity-journey/
-│
-├── notes/
-│   ├── networking.md
-│   ├── cybersecurity-basics.md
-│   ├── tryhackme.md
-│   ├── certifications.md
-│   └── internships.md
-│
-├── projects/
-│   ├── tryhackme-labs/
-│   ├── scripts/
-│   └── reports/
-│
-├── certifications/
-│   ├── cisco-it-support.pdf
-│   ├── google-cybersecurity.pdf
-│   └── isc2-training.pdf
-│
-└── README.md
-
----
 
 ## 🧱 Current Goals
 
