@@ -43,11 +43,11 @@ Welcome to my cybersecurity learning journey! I'm documenting everything I learn
 |----------------|---------|--------|
 | Cisco Packet Tracer | Cisco | ✅ Completed |
 | Cisco IT Support Specialist | Cisco | 🔜 In Progress |
-| Google IT Support Professional Certificate | Google | 🔜 In Progress |
-| Google Cybersecurity Professional Certificate | Google | 🔜 In Progress |
-| ISC2 Cybersecurity Training | ISC2 | 🔜 In Progress |
-| Qualys Vulnerability Management | Qualys | 🔜 In Progress |
+| Network Technician Career Path | Cisco | 🔜 Upcoming |
+| Junior Cybersecurity Analyst Career Path | Cisco | 🔜 Upcoming |
 | Ethical Hacker | Cisco | 🔜 Upcoming |
+| ISC2 Cybersecurity Training | ISC2 | 🔜 Upcoming |
+| Qualys Vulnerability Management | Qualys | 🔜 Upcoming |
 
 ---
 
