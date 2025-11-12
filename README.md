@@ -13,7 +13,7 @@ Welcome to my cybersecurity learning journey! I'm documenting everything I learn
 ## 🌐 Connect With Me
 
 💼 [LinkedIn](https://www.linkedin.com/in/danyal-gulzar/)  
-📂 [TryHackMe Profile](https://tryhackme.com/p/danyalgulzar03)  
+📂 [TryHackMe](https://tryhackme.com/p/danyalgulzar03)  
 🐙 [GitHub](https://github.com/Dany-ai)  
 📧 danyalgulzar03@gmail.com
 
